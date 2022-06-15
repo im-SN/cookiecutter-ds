@@ -1,0 +1,8 @@
+{
+  "project": "project_name",
+  "author_name": "Your name (or your organization/company/team)",
+  "email": "email",
+  "date_start": "date of project start dd-mm-yy",
+  "license": ["MIT License", "BSD License", "ISC License", "GNU General Public License v3", "Apache Software License 2.0", "Not open source"],
+  "project_slug": "{{cookiecutter.project.lower().replace(' ','_')}}"
+}
